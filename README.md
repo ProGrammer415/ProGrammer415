@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the MERN stack and Next.js
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ...mmm! Not yet!
-- 😄 Pronouns: ...HIM
+- 😄 Pronouns: ...Male
 - ⚡ Fun fact: ...
 
 <!---
